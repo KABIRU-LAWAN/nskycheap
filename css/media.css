@@ -1,0 +1,9 @@
+@media (max-width: 768px){
+  .navbar-nav{
+    display: none;
+  }
+
+  .nav-button{
+    display: none;
+  }
+}
